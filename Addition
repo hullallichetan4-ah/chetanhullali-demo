@@ -1,0 +1,3 @@
+a=input("Number1:")
+b=input("Number 2:")
+num=a+b
